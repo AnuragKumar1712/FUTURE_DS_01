@@ -75,5 +75,6 @@ The interactive dashboard reveals insights into revenue growth, category perform
 
 ## 📸 Dashboard Preview
 > ![Dashboard Preview](./Dashboard/Summary%20Page.png)
+> ![Performance Page Preview](./Dashboard/Performance%20Page.png)
 
 ---
